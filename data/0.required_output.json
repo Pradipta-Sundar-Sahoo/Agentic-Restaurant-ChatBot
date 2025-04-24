@@ -1,0 +1,26 @@
+[
+    {
+    "restraunt_name": "Burger King",
+    "address": "13/29 & 13/30, Ajmal Khan Road, Karol Bagh, New Delhi, Karol Bagh, New Delhi, New Delhi",
+    "phone": [
+        "+911149045132"
+    ],
+    "what_they_serve": "Burger, Fast Food, Desserts, Shake",
+    "opening_hours": "12midnight \u2013 6am, 9am \u2013 12midnight (Today)",
+    "dining_ratings": 3.7,
+    "delivery_ratings": null,
+    "dining_ratings_count": 704,
+    "delivery_ratings_count": 41800,
+    "menu": [
+        {
+            "item_name": "Korean Spicy Paneer Burger.",
+            "description": "\"Crunchy Soft Paneer patty dunked in hot and sweet Korean glaze with Korean",
+            "price": 299.0,
+            "category": "Korean Spicy Fest(Limited Time Only)",
+            "veg": true
+        }
+        
+    ],
+    "source_url": "https://www.zomato.com/ncr/burger-king-karol-bagh-new-delhi/order"
+}
+]
