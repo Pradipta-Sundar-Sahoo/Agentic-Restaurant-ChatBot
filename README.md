@@ -187,13 +187,14 @@ CREATE TABLE restaurant_menu_flat (
 - Streamlit (UI)
 - FastAPI (API)
 - LangGraph (workflow orchestration)
-- OpenAI Python Library (LLM)
+- Hugging Face
 - Psycopg2 (PostgreSQL connector)
 - Pinecone-client (vector DB)
 - Sentence-Transformers (embeddings)
 - Pydantic (state modeling)
 - Dotenv (env management)
 - Selenium, BeautifulSoup (scraping)
+- OpenAI Python Library (LLM) --- provided for use
 
 ---
 
