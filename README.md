@@ -26,7 +26,6 @@ Traditional database querying requires users to know specific languages (like SQ
 
 ## 🏗️ Architecture Diagram (Conceptual Flow)
 
-> **Upload your pipeline schematic here:**
 > ![Upload your architecture diagram here](./docs/architecture_diagram.png)
 
 
@@ -213,7 +212,6 @@ CREATE TABLE restaurant_menu_flat (
 - Implementing more robust error handling and fallback mechanisms
 - Cost tracking and optimization for LLM calls
 - Allowing the agent to ask clarifying questions to the user
-- Replacing hardcoded restaurant lists with dynamic lookups
 - Streaming responses for better user experience
 
 ---
