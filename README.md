@@ -81,8 +81,8 @@ Traditional database querying requires users to know specific languages (like SQ
 
 ### 2. Clone & Install
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Pradipta-Sundar-Sahoo/NuggetZomato.git
+cd NuggetZomato
 pip install -r requirements.txt
 ```
 
